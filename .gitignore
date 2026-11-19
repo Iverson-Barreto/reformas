@@ -1,0 +1,12 @@
+public/config.js
+.streamlit/secrets.toml
+.venv
+__pycache__
+.env
+.env.*
+*.local
+*.local.*
+.vercel
+.netlify
+node_modules
+WhatsApp Image*
